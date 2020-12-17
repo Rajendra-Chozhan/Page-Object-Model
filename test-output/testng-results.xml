@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-16T22:47:22 IST" name="Project" finished-at="2020-12-16T22:47:42 IST" duration-ms="20262">
+    <groups>
+    </groups>
+    <test started-at="2020-12-16T22:47:22 IST" name="Banking App Test " finished-at="2020-12-16T22:47:42 IST" duration-ms="20262">
+      <class name="com.project.testcases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.project.testcases.TC_LoginTest_001@6a28ffa4]" started-at="2020-12-16T22:47:22 IST" name="setup" finished-at="2020-12-16T22:47:26 IST" duration-ms="4138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.project.testcases.TC_LoginTest_001@6a28ffa4]" started-at="2020-12-16T22:47:26 IST" name="loginTest" finished-at="2020-12-16T22:47:41 IST" duration-ms="15232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="Exit()[pri:0, instance:com.project.testcases.TC_LoginTest_001@6a28ffa4]" started-at="2020-12-16T22:47:41 IST" name="Exit" finished-at="2020-12-16T22:47:42 IST" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
+      </class> <!-- com.project.testcases.TC_LoginTest_001 -->
+    </test> <!-- Banking App Test  -->
+  </suite> <!-- Project -->
+</testng-results>

@@ -1,0 +1,8 @@
+com\project\testcases\TC_LoginTest_001.class
+com\project\testcases\TC_OrderingTest_002.class
+com\project\pageobjects\LoginPage.class
+com\project\utilities\ReadConfig.class
+com\project\pageobjects\HomePage.class
+com\project\utilities\XLUtils.class
+com\project\baseclass\BaseClass.class
+com\project\utilities\Reporting.class

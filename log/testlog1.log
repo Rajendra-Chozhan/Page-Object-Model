@@ -1,0 +1,261 @@
+2020-12-11 17:30:30,611 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-11 17:30:30,760 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-11 17:30:30,860 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-11 17:30:32,655 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-11 17:30:32,661 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-11 19:53:17,530 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-11 19:53:17,667 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-11 19:53:17,755 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-11 19:53:19,706 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-11 19:53:19,712 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 12:34:08,488 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:34:08,679 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 12:34:08,774 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 12:34:10,756 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 12:34:10,762 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 12:34:56,576 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:34:56,751 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 12:34:56,856 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 12:34:58,790 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 12:35:42,447 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:35:42,601 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 12:35:42,697 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 12:35:44,329 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 12:35:44,336 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 12:36:49,702 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:36:58,115 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:37:38,373 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:41:36,915 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:42:56,718 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:43:58,269 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:44:41,730 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:44:41,876 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 12:44:41,962 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 12:44:43,748 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 12:44:43,754 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 12:46:17,500 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 12:46:17,641 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 12:46:17,715 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 12:46:39,921 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 12:46:39,928 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 22:20:03,080 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 22:20:03,212 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 22:20:03,293 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 22:20:05,285 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 22:20:05,291 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 22:27:59,639 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 22:27:59,766 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 22:27:59,837 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 22:28:01,797 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 22:28:01,806 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 23:24:41,935 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 23:24:42,082 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 23:24:42,168 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 23:24:43,538 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 23:24:43,544 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 23:27:37,872 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 23:27:38,236 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 23:27:38,323 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 23:27:40,747 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 23:27:40,754 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 23:28:35,228 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 23:28:35,586 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 23:28:35,910 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 23:28:37,898 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 23:28:37,904 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 23:31:25,262 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 23:31:25,671 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 23:31:26,130 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 23:31:28,032 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 23:31:28,041 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-13 23:33:41,699 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-13 23:33:42,085 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-13 23:33:42,493 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-13 23:33:44,496 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-13 23:33:44,503 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-14 21:58:13,049 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 21:58:13,234 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 21:58:13,325 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 21:58:15,163 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 21:58:15,506 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-14 21:59:00,421 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 21:59:00,577 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 21:59:00,655 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 21:59:02,284 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 21:59:02,652 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-14 21:59:34,066 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 21:59:34,204 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 21:59:34,276 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 21:59:36,539 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 21:59:36,546 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-14 22:00:24,113 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 22:00:24,245 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 22:00:24,325 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 22:00:26,184 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 22:00:26,193 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-14 22:01:01,201 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 22:01:01,332 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 22:01:01,436 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 22:01:03,345 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 22:01:03,733 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-14 22:03:00,849 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 22:03:00,984 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 22:03:01,061 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 22:03:02,787 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 22:23:38,170 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 22:23:38,300 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 22:23:38,368 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 22:23:40,212 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 22:23:40,559 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-14 22:24:56,416 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-14 22:24:56,539 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-14 22:24:56,609 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-14 22:24:58,526 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-14 22:24:58,859 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-15 18:23:47,253 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 18:23:47,394 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-15 18:23:50,505 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-15 18:23:50,572 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-15 18:23:50,644 [main] INFO com.project.baseclass.BaseClass - Logged in
+2020-12-15 18:23:53,204 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-15 18:24:42,670 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 18:24:42,786 [main] INFO com.project.baseclass.BaseClass - Entered Username
+2020-12-15 18:24:45,354 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-15 18:24:45,412 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-15 18:24:45,475 [main] INFO com.project.baseclass.BaseClass - Logged in
+2020-12-15 18:24:47,937 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-15 18:39:20,979 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 18:41:56,004 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 18:50:42,329 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 18:51:52,829 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 18:53:12,852 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 18:59:26,992 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 19:00:12,952 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 19:19:28,967 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 21:48:13,136 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 21:49:07,180 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 21:49:59,336 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 21:51:16,376 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 21:58:38,928 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 21:58:41,176 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-15 21:58:41,283 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-15 21:58:43,569 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-15 21:58:44,030 [main] INFO com.project.baseclass.BaseClass - Login Test Failed
+2020-12-15 22:06:12,930 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-15 22:06:15,185 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-15 22:06:15,289 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-15 22:06:17,364 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-15 22:06:23,672 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-15 22:06:24,012 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 14:00:18,108 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 14:00:20,725 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 14:00:20,821 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 14:00:23,132 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 14:00:28,927 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 14:00:29,285 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 14:53:19,072 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 14:53:21,302 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 14:53:21,389 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 14:53:25,276 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 14:56:07,078 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 14:56:09,324 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 14:56:09,423 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 14:56:11,652 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 14:58:58,754 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 14:59:01,020 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 14:59:01,131 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 14:59:03,213 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 15:00:49,852 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:00:52,093 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 15:00:52,182 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 15:00:54,363 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 15:02:37,179 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:02:39,429 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 15:02:39,537 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 15:02:41,545 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 15:08:01,337 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:09:26,395 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:09:28,659 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 15:09:28,773 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 15:09:30,591 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 15:12:56,540 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:12:58,812 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 15:12:58,910 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 15:13:00,988 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 15:13:30,561 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:13:32,827 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 15:13:32,925 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 15:13:34,776 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 15:17:25,411 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:17:27,668 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 15:17:27,757 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 15:17:29,388 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 15:20:35,384 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 15:20:37,648 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 15:20:37,733 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 15:20:39,346 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 21:53:13,936 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 21:53:16,183 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 21:53:16,259 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 21:53:18,745 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 21:53:24,803 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 21:53:25,161 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 21:54:31,726 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 21:54:33,973 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 21:54:34,050 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 21:54:49,866 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 21:54:59,343 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 21:55:16,353 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 22:47:31,610 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 22:47:33,922 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 22:47:34,027 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 22:47:35,747 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 22:47:41,375 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 22:47:41,709 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 22:52:40,262 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 22:52:42,520 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 22:52:42,610 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 22:52:45,579 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 22:52:51,630 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 22:52:51,957 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 23:11:54,657 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 23:11:56,904 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 23:11:56,981 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 23:11:58,676 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 23:12:04,671 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 23:12:04,998 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 23:13:55,352 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 23:13:57,615 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 23:13:57,707 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 23:14:01,489 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 23:14:08,022 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 23:14:08,373 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-16 23:28:29,567 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-16 23:28:31,829 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-16 23:28:31,919 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-16 23:28:34,394 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-16 23:28:40,546 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-16 23:28:40,889 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-17 10:24:22,738 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-17 10:24:24,982 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-17 10:24:25,077 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-17 10:24:27,171 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-17 10:24:33,157 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-17 10:24:33,513 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-17 15:04:06,819 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-17 15:04:09,069 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-17 15:04:09,151 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-17 15:04:10,953 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-17 15:04:16,928 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-17 15:04:17,267 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-17 16:18:30,441 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-17 16:18:32,685 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-17 16:18:32,758 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-17 16:18:34,732 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-17 16:18:40,845 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2020-12-17 16:18:41,204 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2020-12-17 16:26:01,973 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2020-12-17 16:26:04,244 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2020-12-17 16:26:04,313 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2020-12-17 16:26:07,387 [main] INFO com.project.baseclass.BaseClass - Submitted
+2020-12-17 16:26:10,433 [main] INFO com.project.baseclass.BaseClass - Signed Out

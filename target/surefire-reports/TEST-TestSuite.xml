@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="31.325" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="JOB_NAME" value="Project1_Maven"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/Project1_Maven/4/display/redirect?page=tests"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\Admin\.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="50fc42888fe9a94b"/>
+    <property name="POM_ARTIFACTID" value="Project"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="POM_DISPLAYNAME" value="Project"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Users\Admin\AppData\Local\Temp"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="15.0.1+9-18"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="Chozhography"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="Project1_Maven"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Project1_Maven/4/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="OneDrive" value="C:\Users\Admin\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15.0.1\bin"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Admin\AppData\Local"/>
+    <property name="java.version" value="15.0.1"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_LEVEL" value="23"/>
+    <property name="USERNAME" value="Chozhography"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="OneDriveConsumer" value="C:\Users\Admin\OneDrive"/>
+    <property name="BUILD_ID" value="4"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.6.3\conf"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="59.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="IN"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-15.0.1"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Project1_Maven/4/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\Admin\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/Project1_Maven/4/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="15.0.1+9-18"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Project1_Maven/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-GH9PSVH"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-15.0.1"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\Admin"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="COMPUTERNAME" value="DESKTOP-GH9PSVH"/>
+    <property name="user.script" value=""/>
+    <property name="POM_GROUPID" value="Project"/>
+    <property name="user.home" value="C:\Users\Admin"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-Project1_Maven-4"/>
+    <property name="JENKINS_SERVER_COOKIE" value="50fc42888fe9a94b"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\Admin"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-15.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\apache-maven-3.6.3/bin;C:\Program Files\Java\jdk-15.0.1/bin;C:\Program Files\Java\jdk-15.0.1/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\Admin\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.6.3"/>
+    <property name="java.class.path" value="C:\Users\Admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Program Files\apache-maven-3.6.3\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\apache-maven-3.6.3/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files\apache-maven-3.6.3 C:\Users\Admin\.jenkins\war\WEB-INF\lib\remoting-4.5.jar C:\Users\Admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\Admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 50943"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-15.0.1/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-15.0.1\bin;C:\Program Files\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\bin;C:\Users\Admin\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-15.0.1/bin"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PROCESSOR_IDENTIFIER" value="AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="M2_HOME" value="C:\Program Files\apache-maven-3.6.3"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="java.io.tmpdir" value="C:\Users\Admin\AppData\Local\Temp\"/>
+    <property name="HUDSON_HOME" value="C:\Users\Admin\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Program Files\apache-maven-3.6.3/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Project1_Maven/4/"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="user.dir" value="C:\Users\Admin\Project"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Project1_Maven/"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-GH9PSVH"/>
+    <property name="USERDOMAIN" value="DESKTOP-GH9PSVH"/>
+    <property name="MAVEN_HOME" value="C:\Program Files\apache-maven-3.6.3"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="PROCESSOR_REVISION" value="1801"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="=C:" value="C:\Program Files\Jenkins"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\Admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\Admin\.jenkins\workspace\Project1_Maven@tmp"/>
+    <property name="WORKSPACE" value="C:\Users\Admin\.jenkins\workspace\Project1_Maven"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Admin\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.specification.version" value="15"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase name="loginTest" classname="com.project.testcases.TC_LoginTest_001" time="31.325">
+    <failure type="junit.framework.AssertionFailedError:">junit.framework.AssertionFailedError: null
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.project.testcases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:59)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TC_LoginTest_001.java:24)- URL is launched successfully
+0 [main] INFO com.project.baseclass.BaseClass  - URL is launched successfully
+Page title is : Login - My Store
+ INFO [main] (TC_LoginTest_001.java:34)- Entered Email Id
+2271 [main] INFO com.project.baseclass.BaseClass  - Entered Email Id
+ INFO [main] (TC_LoginTest_001.java:37)- Entered Password
+2340 [main] INFO com.project.baseclass.BaseClass  - Entered Password
+ INFO [main] (TC_LoginTest_001.java:40)- Submitted
+5414 [main] INFO com.project.baseclass.BaseClass  - Submitted
+ INFO [main] (TC_LoginTest_001.java:45)- Signed Out
+8460 [main] INFO com.project.baseclass.BaseClass  - Signed Out
+Screenshot taken
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 48600
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Dec 17, 2020 4:25:53 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1608202580.442][SEVERE]: Timed out receiving message from renderer: 10.000
+[1608202580.442][WARNING]: screenshot failed, retrying timeout: Timed out receiving message from renderer: 10.000
+]]></system-err>
+  </testcase>
+</testsuite>

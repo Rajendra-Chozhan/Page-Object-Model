@@ -1,0 +1,5 @@
+2020-12-11 17:25:47,947  INFO [main] BaseClass:18 - URL is launched successfully
+2020-12-11 17:25:48,114  INFO [main] BaseClass:23 - Entered Username
+2020-12-11 17:25:48,192  INFO [main] BaseClass:25 - Entered Password
+2020-12-11 17:25:50,066  INFO [main] BaseClass:27 - Submitted
+2020-12-11 17:25:50,073  INFO [main] BaseClass:40 - Login Test Failed
