@@ -8,13 +8,11 @@
 
 
 <test name = "Banking App Test ">
-
-<parameter name = "Browser" value ="chrome"/>
+<parameter name = "browser" value ="chrome"/>
 
 <classes>
  <class name = "com.project.testcases.TC_LoginTest_001"/>
-
-  <!--  <class name = "com.project.testcases.TC_OrderingTest_002"/>-->
+ <!-- <class name = "com.project.testcases.TC_OrderingTest_002"/> -->
 </classes>
 
 

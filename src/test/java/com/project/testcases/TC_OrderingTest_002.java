@@ -43,7 +43,7 @@ public class TC_OrderingTest_002 extends BaseClass{
 		Thread.sleep(3000);
 		hp.clickCasualDresses();
 		Thread.sleep(3000);
-		hp.clickCasualcheck();
+	//	hp.clickCasualcheck();
 		
 		Thread.sleep(3000);
 			

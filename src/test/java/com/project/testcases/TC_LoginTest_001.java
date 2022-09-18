@@ -3,13 +3,13 @@ package com.project.testcases;
 import java.io.IOException;
 
 import org.apache.log4j.BasicConfigurator;
-
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.project.baseclass.BaseClass;
 import com.project.pageobjects.LoginPage;
 
-import junit.framework.Assert;
+
 
 public class TC_LoginTest_001 extends BaseClass
 {
@@ -26,7 +26,7 @@ public class TC_LoginTest_001 extends BaseClass
 		
 		driver.manage().window().maximize();
 		
-					
+		
 		LoginPage lp = new LoginPage(driver);
 		 		
 		lp.setemailid(Email);
@@ -44,21 +44,19 @@ public class TC_LoginTest_001 extends BaseClass
 		lp.clicksignout();		
 	logger.info("Signed Out");
 	
+	String a = driver.getTitle();
+	System.out.println(a);
+	String b = "Loginy Store";
 	
 		
-		if(driver.getTitle().equals("Login - My Store")) 
-		{
-		 	 captureScreen( driver,"loginTest");
-			Assert.assertTrue(true);
-			logger.info("Login Test Passed");
-			
-		}
-			     else {
-			    	 
-			    	 captureScreen( driver,"loginTest");
-				Assert.assertTrue(false);
-		logger.info("Login Test Failed");
-	}
+		
+		 	// captureScreen( driver,"loginTest");
+			Assert.assertEquals(a, b);
+		//	logger.info("Login Test Passed");
+					    	 
+	//		    	 captureScreen( driver,"loginTest");
+	//		logger.info("Login Test Failed");
+	
 	
      }
 }

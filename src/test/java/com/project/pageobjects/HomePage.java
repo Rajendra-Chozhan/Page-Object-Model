@@ -70,7 +70,7 @@ WebDriver ldriver;
 	
 	
 	
-	@FindBy(xpath = "//header/div[3]/div[1]/div[1]/div[4]/div[1]/div[2]/div[4]/a[1]/span[1]")
+	@FindBy(xpath = "//*[contains(text(),'Proceed to checkout')]")
 	WebElement Proceedtocheckout;
 	
 	public void Proceed()
@@ -79,7 +79,7 @@ WebDriver ldriver;
 		Proceedtocheckout.click();
 	}
 	
-	@FindBy(xpath = "//body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/p[2]/a[1]/span[1]")
+	@FindBy(xpath = "//*[contains(@class,'button btn btn-default standard-checkout button-medium')]")
 	WebElement Proceed2;
 	
 	public void Proceed2()
@@ -89,7 +89,7 @@ WebDriver ldriver;
 	
 	
 		
-			@FindBy(xpath = "/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/form[1]/p[1]/button[1]/span[1]")
+			@FindBy(xpath = "//*[contains(@class,'button btn btn-default button-medium')]")
 	WebElement Proceed3;
 	
 	
@@ -98,7 +98,7 @@ WebDriver ldriver;
 				Proceed3.click();
 			}
 	
-			@FindBy(xpath = "/html[1]/body[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/p[1]/button[1]/span[1]")
+			@FindBy(xpath = "//*[contains(@class,'button btn btn-default standard-checkout button-medium')]")
 			WebElement Proceed4;
 			
 			
@@ -119,13 +119,9 @@ WebDriver ldriver;
 							
 							
 							
-							//body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/p[1]/a[1]/span[1]			
 							
 							
-							
-							
-							
-							@FindBy(xpath = "//body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/p[1]/a[1]/span[1]	")
+							@FindBy(xpath = "//*[contains(text(),'Pay by check')]")
 							WebElement paybycheck;
 					
 							
@@ -139,7 +135,7 @@ WebDriver ldriver;
 							
 							
 							
-									@FindBy(xpath = "//body/div[@id='page']/div[2]/div[1]/div[3]/div[1]/form[1]/p[1]/button[1]/span[1]")
+									@FindBy(xpath = "//*[contains(text(),'I confirm my order')]")
 									WebElement confirm;
 							
 									

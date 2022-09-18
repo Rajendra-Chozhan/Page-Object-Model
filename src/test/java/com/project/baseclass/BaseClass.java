@@ -37,7 +37,7 @@ public class BaseClass {
 	public static WebDriver driver;
 	
 	public static Logger logger;
-	@Parameters("Browser")
+	@Parameters("browser")
 	@BeforeClass
 	public void setup(String br) {
     

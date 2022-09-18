@@ -5,10 +5,9 @@
     <classes>
       <class name="com.project.testcases.TC_LoginTest_001">
         <methods>
+          <include name="loginTest"/>
           <include name="setup"/>
           <include name="Exit"/>
-          <include name="generateExcelReport"/>
-          <include name="loginTest"/>
         </methods>
       </class> <!-- com.project.testcases.TC_LoginTest_001 -->
     </classes>

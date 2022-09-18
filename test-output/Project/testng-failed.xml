@@ -5,14 +5,15 @@
     <listener class-name="com.project.utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Banking App Test (failed)">
-    <parameter name="Browser" value="chrome"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.project.testcases.TC_OrderingTest_002">
+      <class name="com.project.testcases.TC_LoginTest_001">
         <methods>
+          <include name="loginTest"/>
           <include name="setup"/>
-          <include name="ordering"/>
+          <include name="Exit"/>
         </methods>
-      </class> <!-- com.project.testcases.TC_OrderingTest_002 -->
+      </class> <!-- com.project.testcases.TC_LoginTest_001 -->
     </classes>
   </test> <!-- Banking App Test (failed) -->
 </suite> <!-- Failed suite [Project] -->
