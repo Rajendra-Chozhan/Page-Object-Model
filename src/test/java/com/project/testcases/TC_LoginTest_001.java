@@ -10,7 +10,6 @@ import com.project.baseclass.BaseClass;
 import com.project.pageobjects.LoginPage;
 
 
-
 public class TC_LoginTest_001 extends BaseClass
 {
     
@@ -46,16 +45,16 @@ public class TC_LoginTest_001 extends BaseClass
 	
 	String a = driver.getTitle();
 	System.out.println(a);
-	String b = "Loginy Store";
+	String b = "Login - My Store";
 	
 		
 		
-		 	// captureScreen( driver,"loginTest");
+		 	 captureScreen( driver,"loginTest");
 			Assert.assertEquals(a, b);
-		//	logger.info("Login Test Passed");
+			logger.info("Login Test Passed");
 					    	 
-	//		    	 captureScreen( driver,"loginTest");
-	//		logger.info("Login Test Failed");
+		    	 captureScreen( driver,"loginTest");
+	//logger.info("Login Test Failed");
 	
 	
      }

@@ -358,3 +358,9 @@
 2022-09-18 17:41:59,755 - com.project.baseclass.BaseClass -INFO - Entered Password
 2022-09-18 17:42:05,398 - com.project.baseclass.BaseClass -INFO - Submitted
 2022-09-18 17:42:14,092 - com.project.baseclass.BaseClass -INFO - Signed Out
+2022-09-18 17:48:45,640 - com.project.baseclass.BaseClass -INFO - URL is launched successfully
+2022-09-18 17:48:45,919 - com.project.baseclass.BaseClass -INFO - Entered Email Id
+2022-09-18 17:48:46,001 - com.project.baseclass.BaseClass -INFO - Entered Password
+2022-09-18 17:48:50,247 - com.project.baseclass.BaseClass -INFO - Submitted
+2022-09-18 17:48:56,391 - com.project.baseclass.BaseClass -INFO - Signed Out
+2022-09-18 17:48:56,602 - com.project.baseclass.BaseClass -INFO - Login Test Passed
