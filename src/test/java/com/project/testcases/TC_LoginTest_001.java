@@ -4,17 +4,28 @@ import java.io.IOException;
 
 import org.apache.log4j.BasicConfigurator;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import com.project.baseclass.BaseClass;
 import com.project.pageobjects.LoginPage;
+import com.project.utilities.ListenerClass;
+
+import io.qameta.allure.Epic;
+import io.qameta.allure.Feature;
+import io.qameta.allure.Severity;
+import io.qameta.allure.SeverityLevel;
+import io.qameta.allure.Story;
 
 
 public class TC_LoginTest_001 extends BaseClass
 {
-    
+	
 	@Test
-     
+     @Epic("EP001")
+	@Feature("Feature: logo")
+	@Story("Story-001")
+	@Severity(SeverityLevel.NORMAL)
 	public void loginTest() throws IOException, InterruptedException {
 		
     	 BasicConfigurator.configure();

@@ -376,3 +376,17 @@
 2022-10-04 23:23:07,619 [main] INFO com.project.baseclass.BaseClass - Submitted
 2022-10-04 23:23:14,240 [main] INFO com.project.baseclass.BaseClass - Signed Out
 2022-10-04 23:23:14,440 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2022-10-05 19:17:55,420 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2022-10-05 19:17:55,717 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2022-10-05 19:17:55,794 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2022-10-05 19:18:07,054 [main] INFO com.project.baseclass.BaseClass - Submitted
+2022-10-05 19:18:27,019 [main] INFO com.project.baseclass.BaseClass - Signed Out
+2022-10-05 19:18:27,190 [main] INFO com.project.baseclass.BaseClass - Login Test Passed
+2022-10-05 20:57:55,842 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2022-10-05 20:57:56,053 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2022-10-05 20:57:56,142 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2022-10-05 20:58:05,935 [main] INFO com.project.baseclass.BaseClass - Submitted
+2022-10-05 20:58:40,929 [main] INFO com.project.baseclass.BaseClass - URL is launched successfully
+2022-10-05 20:58:41,032 [main] INFO com.project.baseclass.BaseClass - Entered Email Id
+2022-10-05 20:58:41,116 [main] INFO com.project.baseclass.BaseClass - Entered Password
+2022-10-05 20:58:47,407 [main] INFO com.project.baseclass.BaseClass - Submitted

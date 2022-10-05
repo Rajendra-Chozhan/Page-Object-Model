@@ -36,10 +36,12 @@ public class BaseClass {
 	
 	public static WebDriver driver;
 	
+	public static ThreadLocal<WebDriver> tdriver = new ThreadLocal<WebDriver>();
+	
 	public static Logger logger;
 	@Parameters("browser")
 	@BeforeClass
-	public void setup(String br) {
+	public WebDriver setup(String br) {
     
 		BasicConfigurator.configure();	
 		
@@ -50,27 +52,46 @@ public class BaseClass {
 		{
 			System.setProperty("webdriver.chrome.driver",read.getChromepath());
 						driver = new ChromeDriver();
+						
+						driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+						driver.manage().deleteAllCookies();
+						driver.manage().window().maximize();
+						tdriver.set(driver);
+						return getDriver();
 			
 		}
 		else if (br.equals("ie")) {
 			
 			System.setProperty("webdriver.ie.driver",read.getIEpath());
-		driver = new InternetExplorerDriver();	
+		driver = new InternetExplorerDriver();
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		driver.manage().deleteAllCookies();
+		driver.manage().window().maximize();
+		tdriver.set(driver);
 	}
 		else if (br.equals("firefox")) {
 			{
 			System.setProperty("webdriver.gecko.driver",read. getFirefoxpath());
 		driver = new FirefoxDriver();	
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		driver.manage().deleteAllCookies();
+		driver.manage().window().maximize();
+		tdriver.set(driver);
 	}}
 
 		else if (br.equals("edge")) {
 			{
 			System.setProperty("webdriver.edge.driver",read. getEdgepath());
 		driver = new EdgeDriver();	
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		driver.manage().deleteAllCookies();
+		driver.manage().window().maximize();
+		tdriver.set(driver);
+		
 	}}
 		
 		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-	
+		return getDriver();
 	}
 	
 	@AfterClass
@@ -87,6 +108,11 @@ public class BaseClass {
 		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
+	}
+
+	public static synchronized WebDriver getDriver() {
+		// TODO Auto-generated method stub
+		return tdriver.get();
 	}
 	
 	}
