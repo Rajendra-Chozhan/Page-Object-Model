@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-05T19:17:41 IST" name="Project" finished-at="2022-10-05T19:18:27 IST" duration-ms="45852">
+  <suite started-at="2022-10-06T15:34:17 IST" name="Project" finished-at="2022-10-06T15:35:29 IST" duration-ms="71884">
     <groups>
     </groups>
-    <test started-at="2022-10-05T19:17:41 IST" name="Banking App Test " finished-at="2022-10-05T19:18:27 IST" duration-ms="45852">
+    <test started-at="2022-10-06T15:34:17 IST" name="Banking App Test " finished-at="2022-10-06T15:35:29 IST" duration-ms="71884">
       <class name="com.project.testcases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.project.testcases.TC_LoginTest_001@291f18]" started-at="2022-10-05T19:17:41 IST" name="setup" finished-at="2022-10-05T19:17:43 IST" duration-ms="1858" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.project.testcases.TC_LoginTest_001@3e6534e7]" started-at="2022-10-06T15:34:18 IST" name="setup" finished-at="2022-10-06T15:34:20 IST" duration-ms="2211" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,36 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.project.testcases.TC_LoginTest_001@291f18]" started-at="2022-10-05T19:17:43 IST" name="loginTest" finished-at="2022-10-05T19:18:27 IST" duration-ms="43487" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.project.testcases.TC_LoginTest_001@3e6534e7]" started-at="2022-10-06T15:34:20 IST" name="loginTest" finished-at="2022-10-06T15:34:38 IST" duration-ms="17625" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="Exit()[pri:0, instance:com.project.testcases.TC_LoginTest_001@291f18]" started-at="2022-10-05T19:18:27 IST" name="Exit" finished-at="2022-10-05T19:18:27 IST" duration-ms="176" status="PASS">
+        <test-method is-config="true" signature="Exit()[pri:0, instance:com.project.testcases.TC_LoginTest_001@3e6534e7]" started-at="2022-10-06T15:34:38 IST" name="Exit" finished-at="2022-10-06T15:34:38 IST" duration-ms="185" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Exit -->
       </class> <!-- com.project.testcases.TC_LoginTest_001 -->
+      <class name="com.project.testcases.TC_OrderingTest_002">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.project.testcases.TC_OrderingTest_002@bd1111a]" started-at="2022-10-06T15:34:38 IST" name="setup" finished-at="2022-10-06T15:34:39 IST" duration-ms="891" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ordering()[pri:0, instance:com.project.testcases.TC_OrderingTest_002@bd1111a]" started-at="2022-10-06T15:34:39 IST" name="ordering" finished-at="2022-10-06T15:35:29 IST" duration-ms="50168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordering -->
+        <test-method is-config="true" signature="Exit()[pri:0, instance:com.project.testcases.TC_OrderingTest_002@bd1111a]" started-at="2022-10-06T15:35:29 IST" name="Exit" finished-at="2022-10-06T15:35:29 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
+      </class> <!-- com.project.testcases.TC_OrderingTest_002 -->
     </test> <!-- Banking App Test  -->
   </suite> <!-- Project -->
 </testng-results>

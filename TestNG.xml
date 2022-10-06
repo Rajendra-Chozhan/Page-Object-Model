@@ -3,8 +3,8 @@
 
 <suite name = "Project">
 <listeners>
-		<listener class-name="com.project.utilities.Reporting" />
-<listener class-name="com.project.utilities.ListenerClass" />
+		<listener class-name="com.project.utilities.ListenerClass_Extent_Report" />
+<listener class-name="com.project.utilities.ListenerClass_Allure_Report" />
 	</listeners>
 
 
@@ -15,6 +15,7 @@
  <class name = "com.project.testcases.TC_LoginTest_001"/>
  <class name = "com.project.testcases.TC_OrderingTest_002"/> 
 </classes>
+
 
 
 

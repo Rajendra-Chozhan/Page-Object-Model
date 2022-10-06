@@ -23,7 +23,7 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 // Listerner Class used to generate Extent Reports
 
 
-public class Reporting extends TestListenerAdapter
+public class ListenerClass_Extent_Report extends TestListenerAdapter
 {
 	public ExtentHtmlReporter htmlReporter;
 	public ExtentReports extent;
@@ -33,7 +33,7 @@ public class Reporting extends TestListenerAdapter
 	public void onStart(ITestContext testContext)
 	{
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());//time stamp
-		String repName="Test-Report-"+timeStamp+".html";
+		String repName="Extent-Test-Report-"+timeStamp+".html";
 		
 		htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+ "/test-output/"+repName);//specify location of the report
 		htmlReporter.loadXMLConfig(System.getProperty("user.dir")+ "/extent-config.xml");

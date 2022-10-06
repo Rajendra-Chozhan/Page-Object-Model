@@ -11,7 +11,7 @@ import com.project.baseclass.BaseClass;
 
 import io.qameta.allure.Attachment;
 
-public class ListenerClass implements ITestListener{
+public class ListenerClass_Allure_Report implements ITestListener{
 
 	
 	private static String getTestmethodName(ITestResult iTestResult) {
