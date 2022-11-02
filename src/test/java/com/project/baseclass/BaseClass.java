@@ -25,7 +25,7 @@ import com.project.utilities.ReadConfig;
 
 
 
-public class BaseClass {
+public  class BaseClass {
 	
 	ReadConfig read = new ReadConfig();
 	
